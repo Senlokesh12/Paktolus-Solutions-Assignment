@@ -1,4 +1,4 @@
-# Paktolus-Solutions-Assisment : Solution
+# Paktolus-Solutions-Assignment : Solution
 this repository contains the  files for Round 3 :Technical test-B.
 
 Hi Team,
