@@ -4,7 +4,7 @@ this repository contains the  files for Round 3 :Technical test-B.
 Hi Team,
 
 I have created two solutions for the problem:
-#### Solution 1: worst_Solution.java
+#### Solution 1: worst_case_Solution.java
 * Time Complexity : O(n^3)
 #### Steps:
 1. Take the user input to find pairs within the range.
@@ -13,7 +13,7 @@ I have created two solutions for the problem:
 4. Add the condition for which we are finding pairs that is : x^2+y^2=Z^2
 5. If the condition get passed we increase the count variable.
 
-#### Solution 2: Optimal_solution.java
+#### Solution 2: Optimized_solution.java
 * Time Complexity : O(n^2)
 #### Steps:
 1. Take the user input to find pairs within the range.
